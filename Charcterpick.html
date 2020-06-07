@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="maincss.css">
+    <script type=" text/javascript" src=" mainjava.js"></script>
+</head>
+<body id="CharcterPickBody" onload="alert1();">
+    <table id="CharcterPickTable" align="center">
+        <tr>
+            <td align="center" height="50">
+                pick one:
+            </td>
+        </tr>
+        <tr id="imgrow">
+            <td width="500" align="center">
+                <a href="zukobackground.html">
+                    <img src="Images/ZukoProfileImage.jpg" height="150" width="150" id="zuko" onclick="character('zuko')" />
+                </a>
+            </td>
+            <td width="500" align="center">
+                <a href="katarabackground.html">
+                    <img src="Images/KataraProfileImage.jpg" height="150" width="150" id="katara" onclick="character('katara')" />
+                </a>
+            </td>
+            <td width="500" align="center">
+                <a href="angbackground.html">
+                    <img src="Images/AngProfileImage.jpg" height="150" width="150" id="ang" onclick="character('ang')" />
+                </a>
+            </td>
+        </tr>
+        <tr id="textrow">
+            <td align="center" width="200">
+                <p id="zukotext">zuko</p>
+
+            </td>
+
+            <td align="center" width="200">
+                <p id="kataratext">katara</p>
+            </td>
+            <td align="center" width="200">
+                <p id="angtext">ang</p>
+            </td>
+        </tr>
+
+
+    </table>
+    <h1> if you want to change you difficulty choice:</h1>
+    <a href="difficultypick.html">
+        <img src="Images/selectdifficulty.png" height="200" width="200" />
+    </a>
+</body>
+</html>

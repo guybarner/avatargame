@@ -1,0 +1,184 @@
+﻿#homebody {
+    background-image: url("Images/homepageavatar2.jpg" ) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    background-position-y:left;
+    background-position-x: left;
+
+    
+}
+#hometext {
+    text-align: center;
+    text-decoration-style: wavy;
+    font-family: "Lucida Console", Courier, monospace;
+}
+#ImgStart{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+}
+#CharcterPickBody {
+    background-image: url("Images/CharcterBackGround.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: left;
+    background-position-x: left;
+}
+
+#CharcterPickTable {
+    margin-bottom:50px;
+}
+p {
+    font-family: "Lucida Console", Courier, monospace;
+    color:darkblue;
+}
+#difficultyPickBody {
+    background-image: url("Images/CharcterBackGround.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: left;
+    background-position-x: left;
+}
+#difficultyPickTable {
+    margin-bottom: 50px;
+}
+#angbody {
+    background-image: url("Images/angbackground3.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: left;
+    background-position-x: left;
+}
+#katarabody {
+    background-image: url("Images/katarabackground2.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: left;
+    background-position-x: left;
+}
+#zukobody {
+    background-image: url("Images/zukobackground3.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: left;
+    background-position-x: left;
+}
+#zukostory {
+    color: Highlight;
+    font-weight: bold;
+}
+#angstory {
+    color: darkblue;
+    font-weight: bold;
+}
+#katarastory {
+    color: black;
+    font-weight: bold;
+}
+#healthenemy {
+   position:absolute;
+   left:1200px;
+   bottom:500px;
+}
+#healthhero {
+    position: absolute;
+    left: 1200px;
+    bottom: 100px;
+}
+#p3 {
+    position: absolute;
+    left: 1020px;
+    bottom: 85px;
+}
+#p4 {
+    position: absolute;
+    left: 1020px;
+    bottom: 485px;
+}
+#p {
+    
+    position: absolute;
+    left: 1020px;
+    bottom: 250px;
+}
+#l {
+    position: absolute;
+    left: 1020px;
+    bottom: 210px;
+}
+#l2 {
+    position: absolute;
+    left: 1020px;
+    bottom: 125px;
+}
+#h {
+    position: absolute;
+    left: 1020px;
+    bottom: 150px;
+}
+#mainbody {
+    background-image: url("Images/CharcterBackGround.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: left;
+    background-position-x: left;
+}
+#endhtml {
+    background-image: url("Images/explosain.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: left;
+    background-position-x: left;
+}
+#p5 {
+    position: absolute;
+    left: 550px;
+    top: 300px;
+    color: aqua;
+}
+#p6 {
+    position: absolute;
+    left: 550px;
+    top: 100px;
+    color: gold;
+    font-size:50px;
+}
+#p7 {
+    position: absolute;
+    left: 100px;
+    top: 280px;
+    color: blue;
+}
+#p8 {
+    position: absolute;
+    left: 100px;
+    top: 330px;
+    color: blue;
+}
+#p9 {
+    position: absolute;
+    left: 400px;
+    top: 425px;
+    color: blue;
+}
+#winbody {
+    background-image: url("Images/trophy.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: left;
+    background-position-x: left;
+}
+#arrow {
+    position: absolute;
+    left: 1050px;
+    top: 400px;
+}
+#p10 {
+    position: absolute;
+    left: 550px;
+    top: 100px;
+    color: red;
+    font-size: 50px;
+}
